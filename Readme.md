@@ -1,6 +1,6 @@
 # Landsat_9_LC_classification
 # Landcover classification using Landsat 9
-
+This is an attempt to perform landcover classification using Random Forest model on dimension reduced bands of Landsat 9 data .
 
 ## Project Structure
 The descriptions of principal files in this project are introduced as follows:
