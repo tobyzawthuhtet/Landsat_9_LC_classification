@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220215</CreaDate><CreaTime>11431900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Data Management Tools.tbx\CreateRandomPoints" Date="20220215" Time="114319">CreateRandomPoints "C:\Users\Toby\Desktop\landsat9 Composite\lc_classification\training data" training_data # pca.tif 10000 "1 Meters" POINT 0</Process></lineage></DataProperties></Esri></metadata>

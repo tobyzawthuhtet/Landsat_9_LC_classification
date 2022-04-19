@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220215</CreaDate><CreaTime>12115700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20220215" Time="121157">ExtractByMask 47Q_20200101-20210101.tif clip_composite.tif "C:\Users\Toby\Desktop\landsat9 Composite\lc_classification\training data\mask_label.tif"</Process></lineage></DataProperties></Esri></metadata>
