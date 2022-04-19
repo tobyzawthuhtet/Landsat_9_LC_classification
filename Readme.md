@@ -15,3 +15,20 @@ The descriptions of principal files in this project are introduced as follows:
 * geopandas
 * rasterio
 * matplotlib
+
+
+## Original Landsat 9 True Color Composite 
+<img src="image/Capture.PNG" width="700" height="500" > 
+
+## PCA performed Image
+ <img src="image/12Capture.PNG" width="700" height="500" > 
+ 
+## Random Points over label data
+ <img src="image/1.PNG" width="700" height="500" > 
+
+## Classification Report
+<img src="image/classification_report.PNG" width="700" height="300" > 
+
+
+## OutPut Landcover Map
+<img src="image/pred compare.PNG" width="700" height="300" > 
